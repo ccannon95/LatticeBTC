@@ -53,7 +53,7 @@ This gives us a second layer of difficulty beyond just the hash target — a **c
 
 - Uses the **same logic as Bitcoin**:
   - Targets 2.343 seconds per block
-  - Every **53,760,000 blocks**, difficulty readjusts to match real-world block time
+  - Every **2016 blocks**, difficulty readjusts to match real-world block time
 - Lattice filters can **scale up** (more constraints) or **scale down** (relax filters) as needed
 
 ---
